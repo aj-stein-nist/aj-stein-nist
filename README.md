@@ -21,6 +21,10 @@ I am an IT Cybersecurity Specialist in the [Secure Systems and Applications Grou
 
 I am not one for titles. I have always enjoyed "security stuffs" and look for projects where I can explore it. More and more, I focus on the intersection of software development and different disciplines in security (application, infrastructure, information, network, et cetera) and risk management.
 
+## How to reach me: ...
+
+My NIST email is the profile slug when you visit my account. You can also feel free open GitHub issues on any OSCAL or personal repo, and I will try to respond when I am able.
+
 ## I'm currently working on ...
 
 Most of what I currently do is arund cyber-security data modeling, particularly for [OSCAL](https://pages.nist.gov/OSCAL/about/). I encourage you to check it out.
@@ -41,3 +45,7 @@ If you are using OSCAL in some way in your work, the development team and I want
 ## I’m looking to collaborate on ...
 
 OSCAL or not, I am excited to collaborate with people on anything.
+
+## And the cat ...
+
+That's Darcy. We both have our moods, and like I say: together we represent the continuum of emotions one feels in security and software development, from elated to dejected.
