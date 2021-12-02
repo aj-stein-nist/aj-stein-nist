@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # About Me
 
-Howdy, I am Alexander Stein. I go by A.J. because I am in the whole brevity thing.
+Howdy, I am Alexander Stein. I go by A.J. because I am into the whole brevity thing.
 
-I am an IT Cybersecurity Specialist in [NIST's Information Technology Lab, Computer Security Divsion, Secure Systems and Application Group (NIST ITL/CSD/SSAG)](https://www.nist.gov/itl/csd/secure-systems-and-applications). Before that, I have worked in the commercial, defense, healthcare, higher education, and US public sectors.
+I am an IT Cybersecurity Specialist in the [Secure Systems and Applications Group, part of ITL CSD](https://www.nist.gov/itl/csd/secure-systems-and-applications). Before that, I have worked in the commercial, defense, healthcare, higher education, and public (US government contracting) sectors.
 
 I am not one for titles. I have always enjoyed "security stuffs" and look for projects where I can explore it. More and more, I focus on the intersection of software development and different disciplines in security (application, infrastructure, information, network, et cetera) and risk management.
 
@@ -29,6 +29,9 @@ Most of what I currently do is arund cyber-security data modeling, particularly 
 
 - Language and parser design
 - Blockchain technologies
+- A variety of other things.
+
+I am doing something new and [learn in public](https://www.swyx.io/learn-in-public/). Feel free to look at [`notebook`, my research repo](https://github.com/aj-stein-nist/notebook/blob/master/README.md) to read and learn more. Hold me accountable, open issues there if things are unclear, confusing, or you have ideas for related topics worth learning. :-)
 
 
 ## I’m looking for help with ...
