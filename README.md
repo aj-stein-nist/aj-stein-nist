@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Howdy, I am Alexander Stein. I go by A.J. because I am into the whole brevity thing.
 
-I am an IT Cybersecurity Specialist in the [Secure Systems and Applications Group, part of ITL CSD](https://www.nist.gov/itl/csd/secure-systems-and-applications). Before that, I have worked in the commercial, defense, healthcare, higher education, and public (US government contracting) sectors.
+I am an IT Cybersecurity Specialist in 773.02, the [Security Components and Measurements Group, part of ITL CSD](https://www.nist.gov/itl/csd/security-components-and-mechanisms). Before that, I have worked in the commercial, defense, healthcare, higher education, and public (US government contracting) sectors.
 
 I am not one for titles. I have always enjoyed "security stuffs" and look for projects where I can explore it. More and more, I focus on the intersection of software development and different disciplines in security (application, infrastructure, information, network, et cetera) and risk management.
 
