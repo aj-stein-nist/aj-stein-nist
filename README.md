@@ -27,7 +27,7 @@ My NIST email is the profile slug when you visit my account. You can also feel f
 
 ## I'm currently working on ...
 
-Most of what I currently do is arund cyber-security data modeling, particularly for [OSCAL](https://pages.nist.gov/OSCAL/about/). I encourage you to check it out.
+Most of what I currently do is around cyber-security data modeling, particularly for [OSCAL](https://pages.nist.gov/OSCAL/about/). I encourage you to check it out.
 
 ## I'm currently learning ...
 
