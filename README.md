@@ -19,6 +19,8 @@ Howdy, I am Alexander Stein. I go by A.J. because I am into the whole brevity th
 
 I am an IT Cybersecurity Specialist in 773.02, the [Security Components and Measurements Group, part of ITL CSD](https://www.nist.gov/itl/csd/security-components-and-mechanisms). Before that, I have worked in the commercial, defense, healthcare, higher education, and public (US government contracting) sectors.
 
+I am a proud 10x alum. Are you a federal employee and have an interesting idea worth exploring for solutions? Then you need to look into [10x and submit ideas](https://10x.gsa.gov/process/)! One of my 10x projects led me to OSCAL. Now it's central to my day job here in NIST. (Thanks to Dan, Nico, Sarah, and Will for that.)
+
 I am not one for titles. I have always enjoyed "security stuffs" and look for projects where I can explore it. More and more, I focus on the intersection of software development and different disciplines in security (application, infrastructure, information, network, et cetera) and risk management.
 
 ## How to reach me: ...
