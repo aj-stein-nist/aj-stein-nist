@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Howdy, I am Alexander Stein. I go by A.J. because I am into the whole brevity thing.
 
-I am an IT Cybersecurity Specialist in 773.02, the [Security Components and Measurements Group, part of ITL CSD](https://www.nist.gov/itl/csd/security-components-and-mechanisms). Before that, I have worked in the commercial, defense, healthcare, higher education, and public (US government contracting) sectors. I am a proud 10x alum, so look into [10x and submit ideas if you're a federal employee](https://10x.gsa.gov/process/)! One of my 10x projects led me to OSCAL.
+I am an IT Cybersecurity Specialist in 773.02, the [Security Components and Measurements Group, part of ITL CSD](https://www.nist.gov/itl/csd/security-components-and-mechanisms). Before that, I have worked in the commercial, defense, healthcare, higher education, and public (US government contracting) sectors. I am a proud 10x alum, so look into [10x and submit ideas if you're a federal employee](https://10x.gsa.gov/process/)! One of my 10x projects led me to work with OSCAL and work on it full-time at NIST.
 
 I am not one for titles. I have always enjoyed "security stuffs" and look for projects where I can explore it. More and more, I focus on the intersection of software development and different disciplines in security (application, infrastructure, information, network, et cetera) and risk management.
 
@@ -34,13 +34,14 @@ You can see a redacted version of my calendar in the two different formats in th
 
 ## Work
 
-Most of what I currently do is around cyber-security data modeling, particularly for [OSCAL](https://pages.nist.gov/OSCAL/about/). I encourage you to check it out.
+Most of what I currently do is around cyber-security data modeling.
 
 ## Study
 
+- Measuring security practices in organizations across industry
+- Increasing transparency of shared data to helps trust software and hardware's safety and security claims
+- Distributed ledger technologies
 - Language and parser design
-- Blockchain technologies
-- A variety of other things.
 
 I am doing something new and [learn in public](https://www.swyx.io/learn-in-public/). Feel free to look at [`notebook`, my research repo](https://github.com/aj-stein-nist/notebook/blob/master/README.md) to read and learn more. Hold me accountable, open issues there if things are unclear, confusing, or you have ideas for related topics worth learning. :-)
 
@@ -51,7 +52,7 @@ If you are using OSCAL in some way in your work, the development team and I want
 
 ## Collaborating with Me
 
-OSCAL or not, I am excited to collaborate with people on anything.
+I am excited to collaborate with people on anything. Contact me via [email](mailto:aj@nist.gov), [Gitter/Matrix](https://matrix.to/#/@aj-stein-nist-619d4e9d6da03739848b2b5a:gitter.im), or [Mastodon](https://floss.social/@ajsteinnist), in order of preference.
 
 ## Cat
 
