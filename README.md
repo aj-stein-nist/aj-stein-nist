@@ -39,7 +39,7 @@ Most of what I currently do is around cyber-security data modeling.
 ## Study
 
 - Measuring security practices in organizations across industry
-- Increasing transparency of shared data to helps trust software and hardware's safety and security claims
+- Increasing transparency with data sharing to help society trust data, software, and hardware safety and security claims
 - Distributed ledger technologies
 - Language and parser design
 
