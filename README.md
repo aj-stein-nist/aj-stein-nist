@@ -46,13 +46,9 @@ Most of what I currently do is around cyber-security data modeling.
 I am doing something new and [learn in public](https://www.swyx.io/learn-in-public/). Feel free to look at [`notebook`, my research repo](https://github.com/aj-stein-nist/notebook/blob/master/README.md) to read and learn more. Hold me accountable, open issues there if things are unclear, confusing, or you have ideas for related topics worth learning. :-)
 
 
-## Helping Me
+## Collaboration and Help
 
-If you are using OSCAL in some way in your work, the development team and I want your help. Let us know how we can add, change, or remove parts of OSCAL to help you with that work. I cannot guarantee we will just make the change, but I will listen with an open mind and work with you.
-
-## Collaborating with Me
-
-I am excited to collaborate with people on anything. Contact me via [email](mailto:aj@nist.gov), [Gitter/Matrix](https://matrix.to/#/@aj-stein-nist-619d4e9d6da03739848b2b5a:gitter.im), or [Mastodon](https://floss.social/@ajsteinnist), in order of preference.
+If you are using any of my projects (check [my GitHub activity](https://github.com/aj-stein-nist) or [public NIST profile](https://www.nist.gov/people/alexander-stein)) in your work, I want your help. Contact me via [email](mailto:aj@nist.gov), [Gitter/Matrix](https://matrix.to/#/@aj-stein-nist-619d4e9d6da03739848b2b5a:gitter.im), or [Mastodon](https://floss.social/@ajsteinnist), in order of preference.
 
 ## Cat
 
