@@ -34,7 +34,7 @@ You can see a redacted version of my calendar in the two different formats in th
 
 ## Work
 
-Most of what I currently do is around cyber-security data modeling.
+Most of what I currently do is around cyber-security data modeling. Looking for more detail? Check out [my GitHub project](https://github.com/users/aj-stein-nist/projects/3/views/1) and [repo](https://github.com/aj-stein-nist/okrs/) I use to track my day-to-day work across various projects.
 
 ## Study
 
