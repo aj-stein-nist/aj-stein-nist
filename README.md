@@ -23,7 +23,7 @@ I am not one for titles. I have always enjoyed "security stuffs" and look for pr
 
 ## Calendar
 
-You need to book time with me about my work or potential future collaboration? That's great, [book time with me by clicking this link](https://outlook.office.com/bookwithme/user/553a60383771471381091ed979a954f6@nist.gov?anonymous&ep=plink)
+You need to book time with me about my work or potential future collaboration? That's great, [book time with me by clicking this link](https://outlook.office.com/bookwithme/user/553a60383771471381091ed979a954f6@nist.gov?anonymous&ep=plink).
 
 You can see a redacted version of my calendar in the two different formats in the list below. If it is blue, I am booked. Do not try to schedule me, or do not expect an urgent response during those time.
 
