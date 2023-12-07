@@ -21,16 +21,18 @@ I am an IT Cybersecurity Specialist in 773.02, the [Security Components and Meas
 
 I am not one for titles. I have always enjoyed "security stuffs" and look for projects where I can explore it. More and more, I focus on the intersection of software development and different disciplines in security (application, infrastructure, information, network, et cetera) and risk management.
 
-## Contact
-
-My NIST email is the profile slug when you visit my account. You can also feel free open GitHub issues on any OSCAL or personal repo, and I will try to respond when I am able.
-
 ## Calendar
+
+You need to book time with me about my work or potential future collaboration? That's great, [book time with me by clicking this link](https://outlook.office.com/bookwithme/user/553a60383771471381091ed979a954f6@nist.gov?anonymous&ep=plink)
 
 You can see a redacted version of my calendar in the two different formats in the list below. If it is blue, I am booked. Do not try to schedule me, or do not expect an urgent response during those time.
 
 - [Web-friendly HTML version](https://outlook.office365.com/owa/calendar/553a60383771471381091ed979a954f6@nist.gov/fec1e6b5fd2545aa9fe7ff4267548ef37310489405368901641/calendar.html)
 - [CalDAV ICS file, use this in your calendar app of choice, most support it](https://outlook.office365.com/owa/calendar/553a60383771471381091ed979a954f6@nist.gov/fec1e6b5fd2545aa9fe7ff4267548ef37310489405368901641/calendar.ics)
+
+## Contact
+
+My NIST email is the profile slug when you visit my account. You can also feel free open GitHub issues on any OSCAL or personal repo, and I will try to respond when I am able.
 
 ## Work
 
