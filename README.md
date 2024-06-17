@@ -54,6 +54,7 @@ I am doing something new and [learn in public](https://www.swyx.io/learn-in-publ
 
 If you are using any of my projects (check [my GitHub activity](https://github.com/aj-stein-nist) or [public NIST profile](https://www.nist.gov/people/alexander-stein)) in your work, I want your help. Contact me via [email](mailto:aj@nist.gov), [Gitter/Matrix](https://matrix.to/#/@aj-stein-nist-619d4e9d6da03739848b2b5a:gitter.im), or [Mastodon](https://floss.social/@ajsteinnist), in order of preference.
 
-## Cat
+## Where is the cat?
 
-That's Darcy. We both have our moods, and like I say: together we represent the continuum of emotions one feels in security and software development, from elated to dejected.
+If you recall my old profile avatar, it was a photo with me and an uncomfortable cat. Sadly, Darcy ascended to [the Rainbow Bridge](https://en.wikipedia.org/wiki/Rainbow_Bridge_(pets)), as many call it, on June 16, 2024. So now, you get a sullen picture of just me. Thanks for thinking of her, she would be pleased.
+
